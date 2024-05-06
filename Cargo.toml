@@ -1,0 +1,12 @@
+[package]
+name = "test-tide"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.81"
+async-std = { version = "1.12.0", features = ["attributes"] }
+pyo3 = "0.21.2"
+serde = "1.0.200"
+thiserror = "1.0.58"
+tide = "0.16.0"
