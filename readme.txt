@@ -1,0 +1,2 @@
+このプログラムはなんかPythonのコードをWeb上で実行するやつですー
+cargo runする前に、PYTHONHOMEを設定してくださいー
